@@ -1,0 +1,36 @@
+@Test - Main method
+
+PSVM - error
+
+
+Main method can we override ?
+
+
+beforemethod - it wil execute before every @Test
+aftermethod-- it will after every@Test
+
+@BM  
+@Test - Test1()
+@Test- Test2()
+@Test - Test3()
+@AM
+
+
+beforeclass -- it will exceute before only once any of the @Test
+afterclass-- it will exceute after only any of the @Test
+
+
+@BC
+@Test
+@Test
+@Test
+@AC
+
+
+
+Git repo
+
+
+jenkins - git repo
+
+jenkins - pom.xml- testng.xml - Scripting - main Functionality - Page object model
